@@ -117,8 +117,8 @@ Expected Graduation: June 2028
 
 ## Certifications
 
-- ServiceNow Certified System Administrator
-- YuvaIntern — Data Analytics Specialist & Language Processing
+- ServiceNow Certified System Administrator 
+- YuvaIntern — Data Analytics Specialist - Language Processing
 - NSDC Approved AI-ML Engineer Certification
 - Applied Machine Learning — Forage Virtual Experience
 - HackerRank certifications in Data Visualization, Python, SQL, and JavaScript
